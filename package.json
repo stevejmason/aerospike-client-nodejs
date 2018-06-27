@@ -81,7 +81,7 @@
   ],
   "binary": {
     "module_name": "aerospike",
-    "module_path": "./built/binding/",
+    "module_path": "./build/",
     "host": "https://aerospike-client-nodejs.s3-eu-west-2.amazonaws.com"
   }
 }
